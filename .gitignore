@@ -5,6 +5,7 @@
 db.sqlite3
 __pycache__/
 media/
-migrations/
+**/migrations/*
+!**/migrations/__init__.py
 static/admin/
 local_settings.py
